@@ -1,0 +1,23 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "cli program",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": {
+    "name": "Edgar Tinkamanyire",
+    "Email": "tinka.edgar@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
